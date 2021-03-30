@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollD20CodeLouisville", "RollD20CodeLouisville\RollD20CodeLouisville.csproj", "{9AA0E69F-6C0C-422C-8285-8A965462B27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA0E69F-6C0C-422C-8285-8A965462B27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA0E69F-6C0C-422C-8285-8A965462B27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA0E69F-6C0C-422C-8285-8A965462B27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA0E69F-6C0C-422C-8285-8A965462B27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2649F1D7-1210-4D12-8432-366226C25E1D}
+	EndGlobalSection
+EndGlobal
