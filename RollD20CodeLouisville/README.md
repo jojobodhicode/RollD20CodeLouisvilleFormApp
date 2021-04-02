@@ -10,6 +10,13 @@ In order to run this application, you will need the following dependencies:
 
 Any errors will be recorded in C:\RollD20Exceptions.txt.
 
+Please see the following repositories for more commits:
+
+https://github.com/jojojordie/RollD20FormApp
+
+https://github.com/jojojordie/RollD20_CodeLouisville
+
+
 ### Code Louisville Feature Matrix
 
 - [X] Implement a “master loop” console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program
